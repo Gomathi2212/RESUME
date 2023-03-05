@@ -1,0 +1,31 @@
+*{
+    
+    box-sizing: border-box;
+
+
+}
+
+header {
+    background-color: #ADD8E6;
+    margin-right: 500px;
+    padding: 1px;
+}
+
+.left {
+    flex: 2;
+}
+.right {
+    flex: 2;
+    margin-right: 500px;
+}
+main {
+    display: flex;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+h2{
+    font-family: sans-serif;
+}
